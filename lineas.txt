@@ -1,2 +1,0 @@
-este archivo tiene líneas nuevas que uso
-para practicar con Git y Github
